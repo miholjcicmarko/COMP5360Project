@@ -1,0 +1,20 @@
+Household victimization variable descriptions
+
+Table of contents
+Aggregate type of crime (newcrime)
+Head of household age (hhage)
+Hispanic origin of head of household (hhhisp)
+Household income (hincome)
+Household size (hnumber)
+Location of incident (locationr)
+Location of residence (msa)
+Population size (popsize)
+Race of head of household (hhrace1R)
+Race/Hispanic origin of head of household (hheth1R)
+Region (region)
+Reporting to the police (notify)
+Sex of head of household (hhgen)
+Type of crime (newoff)
+Victim services (vicservices)
+Weight (weight)
+Year (year)
