@@ -634,5 +634,5 @@ var ajaxUrl = "https:\/\/www.kff.org\/wp-admin\/admin-ajax.php";
 	_stq.push([ 'view', {v:'ext',j:'1:8.3',blog:'158133116',post:'32444',tz:'-4',srv:'www.kff.org'} ]);
 	_stq.push([ 'clickTrackerInit', '158133116', '32444' ]);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1fa8b5b91a","applicationID":"211788170","transactionName":"YgMBZ0cFWUFUUBEICVtJIlBBDVhcGkAMDwFZA05AQQVDVxhaCwUPVgcXXEc=","queueTime":0,"applicationTime":2253,"atts":"TkQWEQ8fSh4XUkdbHUgb","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1fa8b5b91a","applicationID":"211788170","transactionName":"YgMBZ0cFWUFUUBEICVtJIlBBDVhcGkAMDwFZA05AQQVDVxhaCwUPVgcXXEc=","queueTime":0,"applicationTime":549,"atts":"TkQWEQ8fSh4XUkdbHUgb","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
